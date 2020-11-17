@@ -5,6 +5,36 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>16/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato 1 caso in quanto non paziente COVID; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19;
+
+<b>15/11/2020</b><br>
+La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48
+
+<b>14/11/2020</b><br>
+La regione BASILICATA segnala che i totali tamponi effettuati/casi testati e i totali dei casi positivi sono in corso di revisione. La regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 6 casi in quanto giudicati non casi COVID-19.
+
+<b>12/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>10/11/2020</b><br>
+La Regione Abruzzo segnala che sono stati conteggiati anche 21 decessi delle scorse 3 settimane, comunicati oggi dalla ASL 201 ed il cui dettaglio é stato inserito oggi nel portale ISS. Oggi è stato sottratto 1 caso dal totale dei positivi, a seguito di controlli sui dati anagrafici. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 7 casi in quanto giudicati non casi COVID-19.
+
+<b>09/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto duplicato; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>08/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto paziente non covid; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19;
+
+<b>07/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19; La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto duplicato.
+
+<b>06/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi sono stati eliminati 3 casi del 05/11/2020 in quanto duplicati e un caso in quanto già in carico ad altra regione. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19.
+
+<b>05/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Calabria comunica che il numero dei decessi a ieri era 124, e non 125. La Regione Toscana comunica che il numero dei decessi a ieri era 1445, e non 1461. Il numero dei decessi nel report è stato aggiornato correttamente.
+
 <b>04/11/2020</b><br>
 La Regione Campania comunica che nei dati di ieri, per mero errore materiale, sono stati aggiunti 45 posti di Terapia Intensiva in più. La Regione Emilia Romagna comunica che in seguito a verifica sui dati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Calabria comunica che ieri c'è stato un aggiornamento del bollettino regionale, che riporta una modifica nella distribuzione dei casi ricoverati e terapie intensive. Tale modifica è stata effettuata a seguito delle comunicazioni pervenute dall’azienda ospedaliera di Reggio Calabria e dall’Azienda ospedaliera di Cosenza.
 
