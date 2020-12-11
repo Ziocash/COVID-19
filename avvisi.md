@@ -5,6 +5,75 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>11/12/2020</b><br>
+La Regione Calabria comunica che il numero totale di tamponi del 10/12/2020 era 390.443. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Campania comunica di non potere al momento riportare i dati quotidiani sugli ingressi in T.I..
+
+<b>10/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a ricalcolo è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>09/12/2020</b><br>
+La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250
+
+<b>08/12/2020</b><br>
+La Regione Basilicata segnala che il totale dei tampini effettuati/casi testati è in corso di revisione. La Regione Emilia Romagna segnala che dai dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19.
+
+<b>07/12/2020</b><br>
+La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19
+
+<b>06/12/2020</b><br>
+La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250
+
+<b>05/12/2020</b><br>
+La Regione Calabria comunica che in data 3 dicembre è stato ricalcolato il dato sull'incremento casi giornaliero da 280 a 294. La Regione Campania comunica che non è possibile trasmettere i dati sugli ingressi del giorno in terapia intensiva perché in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sugli ingressi del giorno in terapia intensiva perchè in corso di definizione. La Regione Valle D'Aosta comunica che il dato delle persone testate del 4/12 era 34.374 e non 34.734.
+
+<b>04/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 4 casi in quanto giudicati non casi COVID-19. La PA Bolzano comunica che il dato sugli ingressi in TI del giorno al momento non è disponibile. La Regione Sardegna comunica che i dati relativi ai decessi sono comprensivi di un riallineamento dei dati. Per la Regione Valle D'Aosta è stato eseguito un riallineamento dei dati sui tamponi molecolari. I valori riportati in questo report sono aggiornati. La Regione Campania comunica che al momento non è possibile trasmettere i dati di ingressi in terapia intensiva del giorno perché in corso di definizione; in più, per mero errore di inserimento, il numero delle persone testate di ieri era 1.118.787 e non 11.187.787. La Regione Abruzzo comunica che in seguito a verifica sui dati comunicati, il totale dei casi positivi a ieri era 17.556.
+
+<b>03/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 6 casi. La Regione Campania comunica che il dato sugli ingressi in TI del giorno è in corso di definizione. La PA Bolzano comunica che il dato sugli ingressi in TI del giorno è in corso di definizione.
+
+<b>02/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi.
+
+<b>01/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19.
+
+<b>30/11/2020</b><br>
+La Regione Abruzzo segnala che dal totale dei casi positivi è stato sottratto 1 caso dei giorni passati, in quanto caso duplicato. La regione Umbria segnala che un ricalcolo sul numero dei decessi.
+
+<b>29/11/2020</b><br>
+La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19.
+
+<b>28/11/2020</b><br>
+La Regione Abruzzo segnala che e' stato sottratto un positivo del 27/11/2020 in quanto duplicato. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 7 casi, in quanto giudicati non casi COVID-19, e 1 decesso in quanto precedentemente erroneamente trasmesso. La Regione Friuli Venezia Giulia segnala che a seguito del rilascio da parte di Insiel S.p.A. del portale per l’inserimento degli esiti dei tamponi molecolari eseguiti presso laboratori privati, si è resa necessaria l’integrazione con la base dati relativa ai tamponi molecolari processati presso laboratori del SSR. Pertanto, i dati comunicati in data odierna comprendono una quota di dato corrente (relativo alla settimana 23-29 novembre) ed una quota di dato pregresso (1 ottobre-22 novembre), come di seguito specificato: Nuovi casi positivi 1432. Dato corrente 1184 (946 da laboratori SSR e 238 da laboratori privati). Dato pregresso 248 (laboratori privati). Incremento persone testate: 6029. Dato corrente 4432 (2276 da laboratori SSR e 2156 da laboratori privati). Dato pregresso 1597 (laboratori privati). Incremento tamponi: 15001. Dato corrente 9453 (7030 da laboratori SSR e 2423 da laboratori privati). Dato pregresso 5548 (laboratori privati).
+
+<b>27/11/2020</b><br>
+La Regione Basilicata comunica che da un ricalcolo dei casi positivi del 26 novembre, sono stati detratti 9 casi erroneamente conteggiati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Abruzzo comunica che un caso positivo dei giorni precedenti è in corso di definizione.
+
+<b>26/11/2020</b><br>
+La Regione Basilicata comunica che il dato sui casi guariti è in corso di verifica e il numero totale dei decessi comprende 1 paziente residente in altra regione con diagnosi e decesso avvenuto in struttura ospedaliera della regione Basilicata. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i casi di oggi riportano 104 positività da laboratori privati nel periodo 11-24 novembre.
+
+<b>25/11/2020</b><br>
+La Regione Emilia-Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>24/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 2 casi del giorno 23/11 in quanto non pazienti COVID. La Regione Basilicata comunica che il numero odierno dei decessi (16) è riferito a più giornate dal 19 al 24 novembre. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 117 casi positivi registrati dai laboratori privati dal 21 ottobre al 21 novembre
+
+<b>23/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi comprendono 70 positività rilevate da laboratori privati nel periodo 9-21 novembre
+
+<b>22/11/2020</b><br>
+La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 109 casi da laboratori privati di cui 67 compresi nel periodo dal 4 al 18 novembre.
+
+<b>21/11/2020</b><br>
+La Regione Abruzzo comunica che in data odierna sono stati conteggiati 26 decessi avvenuti nelle settimane precedenti e non ancora comunicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Basilicata comunica che è in corso di revisione il dati sul totale casi testati e sul totale tamponi effettuati. La Regione Friuli Venezia Giulia comunica che nei casi odierni sono compresi 88 casi registrati oggi a sistema dal flusso dati dei laboratori privati (date di prelievo comprese fra il 27 ottobre e 17 novembre)
+
+<b>20/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 85 casi registrati dai laboratori privati fra il 29 ottobre e il 14 novembre.
+
+<b>19/11/2020</b><br>
+La Regione Friuli Venezia Giulia comunica che a seguito delle comunicazioni pervenute dai laboratori privati, i nuovi casi includono 196 positività comprese nel periodo dal 28 ottobre al 15 novembre. La Regione Piemonte comunica che il numero di tamponi odierno è sensibilmente superiore alla media giornaliera di tamponi effettuati in Piemonte perché include il caricamento di una quota di dati relativa agli screening effettuati nei giorni scorsi all’interno delle RSA.
+
 <b>18/11/2020</b><br>
 La Regione Friuli Venezia Giulia comunica che nei dati odierni sono inclusi 54 casi positivi censiti dal 28 ottobre al 12 novembre e recuperati dal flusso informativo proveniente dai laboratori privati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Calabria comunica che il numero dei tamponi di oggi comprende tamponi eseguiti nei gg precedenti e processati fuori regione.
 
