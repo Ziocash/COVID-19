@@ -4,8 +4,39 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## Prossimi aggiornamenti
 
+- Bonifica dati pregressi con codici NUTS
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
+- Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
+
+## 2021-02-01
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni e gialle) con relativi metadata.
+
+## 2021-01-24
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni e gialle) con relativi metadata.
+
+## 2021-01-18
+
+- Aggiunta informazioni "codice_nuts_1" e "codice_nuts_2" sul dataset regioni e "codice_nuts_1", "codice_nuts_2" e " codice_nuts_3" sul dataset province
+- Aggiunta informazioni "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" sui dataset regioni e andamento nazionale
+
+## 2021-01-17
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni e gialle) con relativi metadata.
+
+## 2021-01-11
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni e gialle) con relativi metadata.
+
+## 2021-01-07
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
+
+## 2020-12-29
+
+- Modifica: aggiunta anche una versione generalizzata (-g) del dataset relativo alle nuove aree con le misure di contenimento a livello nazionale (aree rosse, arancioni e gialle).
 
 ## 2020-12-24
 
