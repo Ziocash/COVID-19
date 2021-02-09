@@ -5,6 +5,27 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>09/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi già comunicati nei giorni precedenti sono stati eliminati 18 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare.
+
+<b>08/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi confermati da test antigenico già comunicati è stato eliminato 1 caso, in quanto non confermato successivamente con test molecolare. La Regione Veneto comunica che dal totale dei casi confermati da test antigenico già comunicati sono stati sottratti 48 casi, in quanto non confermati successivamente con test molecolare.
+
+<b>07/02/2021</b><br>
+La Regione emilia Romagna comunica che è stato eliminato 1 caso, comunicato nei giorni precedenti, in quanto giudicato non caso COVID-19.
+
+<b>06/02/2021</b><br>
+La Regione Abruzzo riporta che dal totale dei positivi è stato eliminato un caso in quanto giudicato non caso. La Regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi, in quanto giudicati non casi.
+
+<b>05/02/2021</b><br>
+La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto un caso in quanto duplicato. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 4 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
+
+<b>04/02/2021</b><br>
+La regione Emilia Romagna comunica che sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare. In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 decesso; si corregge pertanto il numero dei decessi comunicato ieri: 9.656.
+
+<b>03/02/2021</b><br>
+La regione Emilia Romagna comunica che: Sono stati eliminati 7 casi, positivi a test antigenico ma non confermati da tampone molecolare. In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 decesso, in quanto non attribuibile a COVID-19; si corregge pertanto il numero dei decessi comunicato ieri: 9.581.
+
 <b>02/02/2021</b><br>
 La regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 3 casi dei giorni passati per ricalcolo. La regione Emilia-Romagna comunica che sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
