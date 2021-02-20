@@ -5,6 +5,36 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>19/02/2021</b><br>
+La Regione Emila Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 5 decessi; si corregge pertanto il numero dei decessi comunicato ieri: 10.235. Sono stati inoltre eliminati 9 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Regione Veneto comunica che il dato sulle persone testate è in fase di aggiornamento.
+
+<b>18/02/2021</b><br>
+La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato 1 caso in quanto caso duplicato. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>17/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 8 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>16/02/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei casi confermati già comunicati è stato eliminato 1 caso per correzioni anagrafiche. La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 17 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>15/02/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei casi confermati già comunicati sono stati eliminati 5 casi per correzioni anagrafiche. La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>14/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 8 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>13/02/2021</b><br>
+La Regione Abruzzo comunica che a seguito di verifica, dai casi confermati comunicati nei giorni precedenti sono stati eliminati n. 2 casi in quanto duplicati. La Regione Emilia Romagna comunica che a seguito di verifica, dai casi confermati comunicati nei giorni precedenti sono stati eliminati n. 7 casi in quanto giudicati casi NON COVID19.
+
+<b>12/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei dati sui casi confermati già comunicati sono stati eliminati 15 casi, positivi a test antigenico ma non confermati successivamente da tampone molecolare.
+
+<b>11/02/2021</b><br>
+La regione Abruzzo comunica che a seguito di controlli anagrafici dal totale casi positivi è stato sottratto un caso duplicato. La regione Emilia Romagna comunica che, dal totale dei casi confermati, sono stati eliminati 8 casi, positivi al test antigenico ma non confermati da tampone molecolare. La regione Sardegna comunica che non sono pervenuti dati relativi al numero di tamponi antigenici eseguiti nelle precedenti 24 ore; i 3 casi confermati da test antigenico si riferiscono a tamponi già dichiarati nella giornata di ieri. La regione Umbria comunica che, nel conteggio dei tamponi processati con test antigenico, sono stati aggiunti 7 tamponi effettuati nei giorni precedenti.
+
+<b>10/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati nei giorni precedenti sono  stati eliminati 9 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare.
+
 <b>09/02/2021</b><br>
 La Regione Emilia Romagna comunica che dal totale dei casi già comunicati nei giorni precedenti sono stati eliminati 18 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare.
 
