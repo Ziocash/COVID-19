@@ -6,8 +6,70 @@ All changes to the project, new features and information are documented in this 
 
 - Reclamation of previous data with NUTS codes
 - Data quality analysis notes
-- Updates on previous days based on data recalculation notes from Regions
-- After January 6, 2021, the updates of the new areas with the containment measures will be carried out only on the generalized file
+
+## Next update 2021-04-17
+
+- Documentation review and data processing description
+
+## 2021-05-03
+
+- Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata. 
+
+## 2021-04-26
+
+- Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regional level (red, orange, yellow and white areas), with related metadata. Revision and harmonization of data (values in the legLink field, eliminated previous versionID = 21 because it was incorrect).
+
+## 2021-04-19
+
+- Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata. 
+
+## 2021-04-12
+
+- Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata.  
+
+## 2021-04-07
+
+- Modification: updated shape (the .shp file is zipped) and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata.  
+
+## 2021-04-06
+
+- Modification: updated shape (the .shp file is zipped) and geojson (zipped in two parts) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata. Tomorrow there will be a new update for the application of the DL April 1, 2021, n.44. 
+
+## 2021-04-03
+
+- Modification: updated shape and geojson (being updated) generalized files with the new containment measures at national level (red areas) with related metadata.
+
+## 2021-03-29
+
+- Modification: updated shape and geojson (being updated) generalized files with the new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
+
+## 2021-03-22
+
+- Change: updated generalized shapefile and geojson (being updating)  with new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
+
+## 2021-03-22
+
+- Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
+
+## 2021-03-15
+
+- Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
+
+## 2021-03-08
+
+- Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
+
+## 2021-03-07
+
+- Change: updated csv e json metrics files on desktop and mobile dashboards
+- 
+## 2021-03-01
+
+- Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange, yellow and white areas) with related metadata. For the white areas, the new value "art. 1 comma 11" was introduced in the LegSpecRif attribute, again with reference to the provisions of the Prime Ministerial Decree of January 14, 2021. 
+
+## 2021-02-21
+
+- Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange and yellow areas) with related metadata.
 
 ## 2021-02-14
 
