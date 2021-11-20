@@ -1,8 +1,9 @@
 name: Merge DPC COVID-19 repo
 on: 
+  workflow_dispatch:
   schedule:
     - cron: '30 18 * * *'
-    # scheduled for 00:00 every Monday
+ 
 
 jobs:  
   merge-dpc-COVID-19:
