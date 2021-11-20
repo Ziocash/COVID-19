@@ -1,4 +1,4 @@
-name: Scheduled Merge Remote Action
+name: Merge DPC COVID-19 repo
 on: 
   schedule:
     - cron: '30 18 * * *'
