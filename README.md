@@ -1,3 +1,5 @@
+[![Merge data from Repo](https://github.com/Ziocash/COVID-19/actions/workflows/fetch.yml/badge.svg)](https://github.com/Ziocash/COVID-19/actions/workflows/fetch.yml)
+
 <img src="assets/img/dpc-logo-covid19.png" alt="COVID-19" data-canonical-src="assets/img/dpc-logo-covid19.png" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
