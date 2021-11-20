@@ -4,8 +4,8 @@ on:
     - cron: '30 18 * * *'
     # scheduled for 00:00 every Monday
 
-jobs:
-  merge-COVID-19-from-dpc:
+jobs:  
+  merge-dpc-COVID-19:
     runs-on: ubuntu-latest
     steps: 
       - name: Checkout
@@ -16,6 +16,6 @@ jobs:
       - name: Merge Upstream
         uses: exions/merge-upstream@v1
         with:
-          upstream: pcm-dpc/COVID-19
-          upstream-branch: master   
-          branch: master          
+          upstream: pcm-dpc/COVID-19      # set the upstream repo
+          upstream-branch: master   # set the upstream branch to merge from
+          branch: master          # set the branch to merge to
