@@ -1,3 +1,4 @@
+name: Sync pcm-dpc/COVID-19 repo
 on:
   schedule:
     - cron:  '30 18 * * *'
