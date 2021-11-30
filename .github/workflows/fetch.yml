@@ -1,8 +1,5 @@
 name: Sync pcm-dpc/COVID-19 repo
 on:
-  schedule:
-    - cron:  '30 18 * * *'
-
   workflow_dispatch:  # click the button on Github repo!
 
 jobs:
