@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tgymnich/fork-sync@v1.6
+      - uses: tgymnich/fork-sync@v1.6.3
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          owner: pcm-dpc
-          base: master
           head: master
-          auto_approve: true
+          base: master
+          merge_method: merge
           auto_merge: true
-          ignore_fail: true
